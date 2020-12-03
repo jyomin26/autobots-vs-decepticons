@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Transformer</string>
+    <string name="add_transformer">Add Transformer</string>
+    <string name="start_battel">Start Battel</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="select_strength">Select Strength</string>
+    <string name="select_intelligence">Select Intelligence</string>
+    <string name="select_speed">Select Speed</string>
+    <string name="select_rank">Select Rank</string>
+    <string name="select_endurance">Select Endurance</string>
+    <string name="select_courage">Select Courage</string>
+    <string name="select_firepower">Select Firepower</string>
+    <string name="select_skill">Select Skill</string>
+    <string name="select_team">Select Team</string>
+    <string name="done">Done</string>
+    <string name="please_enter_name">Please enter name</string>
+    <string name="transformer_added_success">Transformer added successfully</string>
+    <string name="transformer_update_success">Transformer updated successfully</string>
+    <string name="no_transformer_fund">No Transformers found</string>
+    <string name="please_wait">Please wait</string>
+    <string name="transformers">Transformers</string>
+    <string name="add_new_transformer">Add New Transformer</string>
+    <string name="edit_transformer">Edit Transformer</string>
+    <string name="auto_vs_decp">Autobots Vs Decepticons</string>
+
+
+    <string-array name="rank">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="team">
+        <item>Autobot</item>
+        <item>Decepticon</item>
+    </string-array>
+
+</resources>

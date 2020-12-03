@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_0">0dp</dimen>
+    <dimen name="tranformer_separator_height">0.5dp</dimen>
+    <dimen name="margin_between_input_fields">5dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="team_icon_size">110dp</dimen>
+    <dimen name="transformer_list_height">140dp</dimen>
+    <dimen name="list_button_size">40dp</dimen>
+    <dimen name="text_size_battel_result">20sp</dimen>
+
+</resources>

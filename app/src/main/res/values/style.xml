@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="input_title_field" parent="Widget.AppCompat.TextView">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/margin_between_input_fields</item>
+    </style>
+
+    <style name="rank_selection" parent="Widget.AppCompat.Spinner">
+        <item name="android:entries">@array/rank</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginTop">@dimen/margin_between_input_fields</item>
+    </style>
+
+</resources>
