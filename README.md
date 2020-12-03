@@ -2,6 +2,8 @@
 
 Created an Application for Creating, Updating, Deleting Transformers and to sattle which team wins the battel.
 
+In order to run the app simply download the code or take clone
+
 Feautres:
 1.Used Rx2AndroidNetworking library for the API calls
 2.Developed app using MVVM architecture
