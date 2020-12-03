@@ -15,7 +15,7 @@ Rules:
   a) With courage less than or equal to 4 and strength less than equal to 3 will loose
   b) Skill greater then or equal to 3 will win
   c) If overall rating is heigher then the opponent will win
-  d) If tie then both will not be destroyed
+  d) If tie then both will be destroyed
   e) The transformer who do not have a opponent to fight will be skipped
 3.Any transformer with name Optimus Prime or Predaking wins his fight automatically regardless of
 any other criteria
